@@ -1,0 +1,1 @@
+# IIC3724-1-Reconocimiento-de-Patrones
