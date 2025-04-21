@@ -6,4 +6,7 @@ The files will be sorted into folders when the course ends.
 <p align="center">
 	<img src="./images.jpg">
 	<br>
+	<img src="./images_T02.jpg">
+	<br>
+	<br>
 </p>
