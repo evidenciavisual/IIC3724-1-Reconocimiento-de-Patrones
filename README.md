@@ -19,7 +19,7 @@ The files will be sorted into folders when the course ends.
 
 <p align="center">
 	<a>Tarea 3</a>
-	<img src="./images_T02.jpg">
+	<img src="./images_T03.jpg">
 	<br>
 	<br>
 </p>
